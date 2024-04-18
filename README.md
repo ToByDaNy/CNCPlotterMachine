@@ -8,3 +8,4 @@ graphical interface. Drawings can be composed of line segments. The
 interface saves the drawing path as a G-Code file.
 Machine Controller (Arduino): Interprets the G-Code file and generates
 commands to move the machine's writing head on the X and Y axes.
+    
